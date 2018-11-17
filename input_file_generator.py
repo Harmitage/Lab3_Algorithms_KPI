@@ -5,7 +5,7 @@ import sys
 # Default generator parameters
 max_rand_num = 18446744073709551615  # i.e 2^64-1, maximum unsigned 64-bit value
 
-full_file_size = 44000  # resulting file size in megabytes (decimal)
+full_file_size = 100  # resulting file size in megabytes (decimal)
 half_file_size = full_file_size / 2
 short_file_size = full_file_size / 16
 s_short_file_size = full_file_size / 256
